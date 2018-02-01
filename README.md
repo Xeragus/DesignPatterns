@@ -1,2 +1,2 @@
 # DesignPatterns
-Implementation of some popular design patterns.
+Java implementation of some popular design patterns.
